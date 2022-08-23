@@ -1,0 +1,29 @@
+.hero-card {
+  background-color: #1a1a1b;
+  display: flex;
+  margin-bottom: 50px;
+  gap: 30px;
+}
+
+.hero-card img {
+  height: 300px;
+}
+
+.hero-card .text {
+  width: 70%;
+  padding-right: 30px;
+}
+
+.hero-card .text .stats {
+  display: flex;
+  gap: 80px;
+}
+
+.hero-card .text button {
+  width: 160px;
+  height: 30px;
+  background-color: #4d3abb;
+  color: white;
+  margin-top: 30px;
+  cursor: pointer;
+}

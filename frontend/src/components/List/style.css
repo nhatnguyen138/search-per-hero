@@ -1,0 +1,14 @@
+.list-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  width: 80%;
+}
+
+.list-container .res-text {
+  text-align: center;
+}
+
+.list-container .hero-list {
+  padding: 20px;
+}
